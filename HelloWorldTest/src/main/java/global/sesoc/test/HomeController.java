@@ -20,4 +20,11 @@ public class HomeController {
 		return "home";
 	}
 	
+	@RequestMapping(value = "/number", method = RequestMethod.GET)
+	public String number() {
+		
+		
+		return "number";
+	}
+	
 }
