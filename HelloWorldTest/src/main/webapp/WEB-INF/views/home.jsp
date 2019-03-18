@@ -16,8 +16,16 @@
 	다시 한번 테스트해보겠습니다ㅇㅇ
 	asdfasdf
 	오늘 저녁은 콘비니...
-	20190318 ~ 연동 테스트~~
 	
+=======
+	TEST
+	밥먹기전 마지막 테스트 5.02
+	자습 시작하기 전에도 테스트...6:00 - 최철규
+	테스트 9:20 3.18
+>>>>>>> branch 'master' of https://github.com/AoiroWatagasi/minnanoPOS.git
+
+
+>>>>>>>>>>>>>>>>>>>>>20190318 연동 테스트
 </h1>
 
 	<a href="number">number</a>
